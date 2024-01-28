@@ -1,5 +1,5 @@
 ﻿# PVT-CSA02-HB
- *Lecturers: Bùi Đỗ Ngọc Hiếu - hieubdn*
+ *Lecturers: Bui Do Ngoc Hieu - hieubdn*
 ### Truy Xuất Dữ Liệu với SQL
 >Link tham khảo:
 >- https://thuvienkhoahoc.net/database-la-gi-cac-loai-database-pho-bien.html

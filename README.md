@@ -1,13 +1,13 @@
 ﻿# PVT-CSA02-HB
  *Lecturers: Bùi Đỗ Ngọc Hiếu - hieubdn*
-## Truy Xuất Dữ Liệu với SQL
+### Truy Xuất Dữ Liệu với SQL
 >Link tham khảo:
-- https://thuvienkhoahoc.net/database-la-gi-cac-loai-database-pho-bien.html
-- https://thuvienkhoahoc.net/database-la-gi-cac-loai-database-pho-bien.html
-- https://www.linkedin.com/learning/sql-data-reporting-and-analysis-2016/database-setup?u=2174436
-- https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=2174436
-- https://www.codecademy.com/learn/learn-sql
-- https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2jOBylizX6NlHjk2o9w7p3u
+>- https://thuvienkhoahoc.net/database-la-gi-cac-loai-database-pho-bien.html
+>- https://thuvienkhoahoc.net/database-la-gi-cac-loai-database-pho-bien.html
+>- https://www.linkedin.com/learning/sql-data-reporting-and-analysis-2016/database-setup?u=2174436
+>- https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=2174436
+>- https://www.codecademy.com/learn/learn-sql
+>- https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2jOBylizX6NlHjk2o9w7p3u
 
 Các loại cơ sở dữ liệu: quan hệ, đám mây, hướng đối tượng,..
 DB + DBMS -> cơ sở dữ liệu

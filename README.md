@@ -24,14 +24,12 @@ siêu khóa: thuộc tính, tập hợp các thuộc tính xác định duy nh�
 Khoá chính: Khoá ứng viên được chọn làm khoá để xác định một hàng. Giá trị trong khóa chính không được null
 Khoá ngoại: Thuộc tính không phải là khoá của bảng đang dùng nhưng là key của bảng khác trong một cơ sở dữ liệu 
 
-Tập hợp nhiều bảng được gọi là cơ sở dữ liệu quan hệ
-
-
+###Tập hợp nhiều bảng được gọi là cơ sở dữ liệu quan hệ
 Pandas
-Link tham khảo:
-https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
-https://pandas.pydata.org/pandas-docs/stable/reference/series.html
-https://realpython.com/pandas-read-write-files/
+>Link tham khảo:
+>-https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+>-https://pandas.pydata.org/pandas-docs/stable/reference/series.html
+>-https://realpython.com/pandas-read-write-files/
 
 So sánh pandas vs python:
 https://towardsdatascience.com/sql-vs-pandas-which-one-to-choose-in-2020-a98f236829ef

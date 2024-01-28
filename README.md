@@ -1,8 +1,7 @@
 ﻿# PVT-CSA02-HB
-# Giáo viên: Bùi Đỗ Ngọc Hiếu - hieubdn
-
+Lecturers: Bùi Đỗ Ngọc Hiếu - hieubdn
+#
 SQL
-
 Link tham khảo:
 https://thuvienkhoahoc.net/database-la-gi-cac-loai-database-pho-bien.html
 https://thuvienkhoahoc.net/database-la-gi-cac-loai-database-pho-bien.html

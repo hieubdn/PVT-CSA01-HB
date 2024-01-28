@@ -1,7 +1,7 @@
 ﻿# PVT-CSA02-HB
  *Lecturers: Bui Do Ngoc Hieu - hieubdn*
 ### Truy Xuất Dữ Liệu với SQL
->Link tham khảo:
+> Link tham khảo:
 >- https://thuvienkhoahoc.net/database-la-gi-cac-loai-database-pho-bien.html
 >- https://thuvienkhoahoc.net/database-la-gi-cac-loai-database-pho-bien.html
 >- https://www.linkedin.com/learning/sql-data-reporting-and-analysis-2016/database-setup?u=2174436
@@ -27,9 +27,9 @@ Khoá ngoại: Thuộc tính không phải là khoá của bảng đang dùng nh
 ### Tập hợp nhiều bảng được gọi là cơ sở dữ liệu quan hệ
 Pandas
 > Link tham khảo:
-> -https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
-> -https://pandas.pydata.org/pandas-docs/stable/reference/series.html
-> -https://realpython.com/pandas-read-write-files/
+> - https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+> - https://pandas.pydata.org/pandas-docs/stable/reference/series.html
+> - https://realpython.com/pandas-read-write-files/
 
 So sánh pandas vs python:
 https://towardsdatascience.com/sql-vs-pandas-which-one-to-choose-in-2020-a98f236829ef

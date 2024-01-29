@@ -32,10 +32,10 @@
 > - https://pandas.pydata.org/pandas-docs/stable/reference/series.html
 > - https://realpython.com/pandas-read-write-files/
 > - So sánh pandas vs python:
-> https://towardsdatascience.com/sql-vs-pandas-which-one-to-choose-in-2020-a98f236829ef
+>> https://towardsdatascience.com/sql-vs-pandas-which-one-to-choose-in-2020-a98f236829ef
 
 - **Series**: Một cột trong table.
-- ***Dataframes**: Cả table -> một dataframes gồm nhiều series.
+- **Dataframes**: Cả table -> một dataframes gồm nhiều series.
 
 
 ### OOP

@@ -9,20 +9,20 @@
 >- https://www.codecademy.com/learn/learn-sql
 >- https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2jOBylizX6NlHjk2o9w7p3u
 
-- Các loại cơ sở dữ liệu: quan hệ, đám mây, hướng đối tượng,..
+- Các loại cơ sở dữ liệu: quan hệ, đám mây, hướng đối tượng,...
 - DB + DBMS -> cơ sở dữ liệu
 - Cơ sở dữ liệu quan hệ
- + Bảng gồm hàng và cột
-Hàng (bộ/tuple): đối tượng
-Cột: thuộc tính của đối tượng
-Miền giá trị: loại giá trị mà một cột có thể nhận. VD: miền giá trị của cột tuổi là integer
-Cấp: số thuộc tính 
-Không bao giờ có 2 hàng giống nhau hoàn toàn trong một bảng
-Khoá
-siêu khóa: thuộc tính, tập hợp các thuộc tính xác định duy nhất của một bộ
-khóa ứng viên: khóa chính có tập hợp các thuộc tính nhỏ nhất
-Khoá chính: Khoá ứng viên được chọn làm khoá để xác định một hàng. Giá trị trong khóa chính không được null
-Khoá ngoại: Thuộc tính không phải là khoá của bảng đang dùng nhưng là key của bảng khác trong một cơ sở dữ liệu 
+  + Bảng gồm hàng và cột
+  + Hàng (bộ/tuple): đối tượng
+  + Cột: thuộc tính của đối tượng
+  + Miền giá trị: loại giá trị mà một cột có thể nhận. VD: miền giá trị của cột tuổi là integer
+  + Cấp: số thuộc tính 
+  + Không bao giờ có 2 hàng giống nhau hoàn toàn trong một bảng
+  + Khoá
+    * siêu khóa: thuộc tính, tập hợp các thuộc tính xác định duy nhất của một bộ
+    * khóa ứng viên: khóa chính có tập hợp các thuộc tính nhỏ nhất
+      * Khoá chính: Khoá ứng viên được chọn làm khoá để xác định một hàng. Giá trị trong khóa chính không được null
+      * Khoá ngoại: Thuộc tính không phải là khoá của bảng đang dùng nhưng là key của bảng khác trong một cơ sở dữ liệu 
 
 ### Tập hợp nhiều bảng được gọi là cơ sở dữ liệu quan hệ
 Pandas

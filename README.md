@@ -9,10 +9,10 @@
 >- https://www.codecademy.com/learn/learn-sql
 >- https://www.youtube.com/playlist?list=PLQi-dJ8Gqv2jOBylizX6NlHjk2o9w7p3u
 
-Các loại cơ sở dữ liệu: quan hệ, đám mây, hướng đối tượng,..
-DB + DBMS -> cơ sở dữ liệu
-Cơ sở dữ liệu quan hệ
-Bảng gồm hàng và cột
+- Các loại cơ sở dữ liệu: quan hệ, đám mây, hướng đối tượng,..
+- DB + DBMS -> cơ sở dữ liệu
+- Cơ sở dữ liệu quan hệ
+ + Bảng gồm hàng và cột
 Hàng (bộ/tuple): đối tượng
 Cột: thuộc tính của đối tượng
 Miền giá trị: loại giá trị mà một cột có thể nhận. VD: miền giá trị của cột tuổi là integer

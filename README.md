@@ -32,22 +32,20 @@
 > - https://pandas.pydata.org/pandas-docs/stable/reference/series.html
 > - https://realpython.com/pandas-read-write-files/
 > - So sánh pandas vs python:
->> https://towardsdatascience.com/sql-vs-pandas-which-one-to-choose-in-2020-a98f236829ef
+> https://towardsdatascience.com/sql-vs-pandas-which-one-to-choose-in-2020-a98f236829ef
 
 - **Series**: Một cột trong table.
 - **Dataframes**: Cả table -> một dataframes gồm nhiều series.
 
 
 ### OOP
-Các thuật ngữ cần nắm
-Class
-Method(phương thức): hàm được viết trong class
-Attributes(thuộc tính): Biến lưu trữ dữ liệu của class
-object: Một instance của class
-Link tham khảo
-https://www.youtube.com/watch?v=-DP1i2ZU9gk
-https://www.youtube.com/watch?v=FlGjISF3l78&t=152s
-https://www.youtube.com/watch?v=JeznW_7DlB0
-
-
-
+**Các thuật ngữ cần nắm**
+- Class
+- Method(phương thức): hàm được viết trong class
+- Attributes(thuộc tính): Biến lưu trữ dữ liệu của class
+- Object: Một instance của class
+  
+>**Link tham khảo**
+>-https://www.youtube.com/watch?v=-DP1i2ZU9gk
+>-https://www.youtube.com/watch?v=FlGjISF3l78&t=152s
+>-https://www.youtube.com/watch?v=JeznW_7DlB0

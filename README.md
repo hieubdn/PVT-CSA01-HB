@@ -24,7 +24,6 @@
       * Khoá chính: Khoá ứng viên được chọn làm khoá để xác định một hàng. Giá trị trong khóa chính không được null.
       * Khoá ngoại: Thuộc tính không phải là khoá của bảng đang dùng nhưng là key của bảng khác trong một cơ sở dữ liệu.
 - Tập hợp nhiều bảng được gọi là cơ sở dữ liệu quan hệ.
-
   
 ### Pandas
 > Link tham khảo:
@@ -37,14 +36,13 @@
 - **Series**: Một cột trong table.
 - **Dataframes**: Cả table -> một dataframes gồm nhiều series.
 
-
 ### OOP
 **Các thuật ngữ cần nắm**
 - Class
 - Method(phương thức): hàm được viết trong class
 - Attributes(thuộc tính): Biến lưu trữ dữ liệu của class
 - Object: Một instance của class
-  
+
 >**Link tham khảo**
 >- https://www.youtube.com/watch?v=-DP1i2ZU9gk
 >- https://www.youtube.com/watch?v=FlGjISF3l78&t=152s

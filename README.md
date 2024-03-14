@@ -1,4 +1,4 @@
-﻿# PVT-CSA02-HB
+﻿# PVT-CSA01-HB
  *Lecturers: Bui Do Ngoc Hieu - hieubdn*
 ### Truy Xuất Dữ Liệu với SQL
 > Link tham khảo:
